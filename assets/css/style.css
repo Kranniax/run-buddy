@@ -1,3 +1,4 @@
+/* Universal Selector */
 * {
   margin: 0;
   padding: 0;
@@ -53,4 +54,31 @@ footer div {
 }
 footer a {
   color: #024e76;
+}
+section {
+  padding: 60px;
+}
+.hero {
+  background-image: url("../images/hero-bg.jpg");
+  height: 600px;
+
+  /* The background-size property can set the size of the background image to its 
+  original size or make it stretched, repeated, or constrained to fit the available
+  space. */
+/* The background-position property can set the initial position of the background 
+image. We'll set this position to center. */
+
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.hero-form{
+  background-color: #fce138;
+  padding: 20px;
+  width: 500px;
+  color: #024e76;
+  border: solid 3px #024e76;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
 }
