@@ -8,27 +8,22 @@ solo can get lonely. Not to mention, it’s a little too easy to skip the gym wh
 you’re not feeling motivated! However, having a workout buddy by your side will
 help you stick with your fitness goals and make exercise much more enjoyable.
 
-
-
 ## Technologies Used
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
+- HTML/CSS
 
 ## Deployed Website
 
+<https://kranniax.github.io/run-buddy/>
 
-## Contributiond
+## Contributions
+
 - Shane Bramble-Wade
 
 ## Project Status
 
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _in progress_
 
 ## Contact
 
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
+Created by [@kranniax](https://twitter.com/kranniax) - feel free to contact me!
