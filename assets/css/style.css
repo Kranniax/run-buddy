@@ -58,6 +58,7 @@ footer a {
 section {
   padding: 60px;
 }
+/* Hero Style Start */
 .hero {
   background-image: url("../images/hero-bg.jpg");
   height: 600px;
@@ -65,14 +66,14 @@ section {
   /* The background-size property can set the size of the background image to its 
   original size or make it stretched, repeated, or constrained to fit the available
   space. */
-/* The background-position property can set the initial position of the background 
+  /* The background-position property can set the initial position of the background 
 image. We'll set this position to center. */
 
   background-size: cover;
   background-position: center;
   position: relative;
 }
-.hero-form{
+.hero-form {
   background-color: #fce138;
   padding: 20px;
   width: 500px;
@@ -88,12 +89,12 @@ image. We'll set this position to center. */
 .hero-form label {
   margin: 0 5px;
 }
-.form-input{
+.form-input {
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
   font-size: 16px;
-  color:#024e76;
+  color: #024e76;
   width: 100%;
   margin-bottom: 15px;
 }
