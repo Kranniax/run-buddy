@@ -1,6 +1,6 @@
 # Run Buddy, Inc
 
-## Purpose
+## Description
 
 A website that offers fitness training services. A fitness buddy is someone who
 will be there for you in the gym and proactively add to your workout.Working out
@@ -8,9 +8,19 @@ solo can get lonely. Not to mention, it’s a little too easy to skip the gym wh
 you’re not feeling motivated! However, having a workout buddy by your side will
 help you stick with your fitness goals and make exercise much more enjoyable.
 
+### Benefits of a workout buddy
+
+* More Fun
+* Someone to talk to.
+* Good ol’ competition.
+* You’ll actually show up.
+* It’s safer.
+
+![ Surpreme Images](/assets/images/kranniax-github-io-1920x1080desktop-36fefb.png)
+
 ## Technologies Used
 
-- HTML/CSS
+* HTML/CSS
 
 ## Deployed Website
 
@@ -18,7 +28,7 @@ help you stick with your fitness goals and make exercise much more enjoyable.
 
 ## Contributions
 
-- Shane Bramble-Wade
+* Shane Bramble-Wade
 
 ## Project Status
 
