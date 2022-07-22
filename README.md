@@ -22,7 +22,7 @@ help you stick with your fitness goals and make exercise much more enjoyable.
 
 ## Project Status
 
-Project is: _in progress_
+Project is: _completed_
 
 ## Contact
 
