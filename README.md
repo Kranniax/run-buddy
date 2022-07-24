@@ -37,3 +37,5 @@ Project is: _completed_
 ## Contact
 
 Created by [@kranniax](https://twitter.com/kranniax) - feel free to contact me!
+
+# Run Buddy Inc
