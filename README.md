@@ -38,4 +38,4 @@ Project is: _completed_
 
 Created by [@kranniax](https://twitter.com/kranniax) - feel free to contact me!
 
-# Run Buddy Inc
+### ©️2022 Run Buddy, Inc
