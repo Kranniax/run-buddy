@@ -166,14 +166,14 @@ to set the standard width size <flex-grow> <Flex-basis> */
 .step-img img {
   max-width: 100%;
 }
-.step-text{
+.step-text {
   flex: 12;
 }
 .step-text p {
   color: #39a6b2;
   font-size: 18px;
 }
-.step-text h4{
+.step-text h4 {
   font-size: 26px;
   line-height: 1.5;
   color: #024e76;
@@ -211,7 +211,6 @@ context to the element. */
   background: #024e76;
   color: #fce138;
   flex: 1;
-
 }
 .trainer img {
   width: 100%;
@@ -235,7 +234,7 @@ context to the element. */
 .contact {
   background: #024e76;
 }
-.contact-info{
+.contact-info {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -269,7 +268,8 @@ context to the element. */
 .contact-info a {
   color: #fce138;
 }
-.contact-form input, .contact-form textarea {
+.contact-form input,
+.contact-form textarea {
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
@@ -303,21 +303,55 @@ context to the element. */
 }
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
-  header h1 a {
+  header {
+    padding-bottom: 0;
+    justify-content: center;
+  }
+  header h1 {
+    width: 100%;
+    text-align: center;
+  }
+  header nav ul {
+    margin-top: 20px;
+    width: 100%;
+    justify-content: center;
+  }
+  header nav ul li a {
+    font-size: 20px;
+  }
+  footer h2,
+  footer div {
+    text-align: center;
+    width: 100%;
+  }
+  .hero-cta,
+  .hero-form {
+    width: 100%;
+  }
+  .hero-cta {
+    text-align: center;
+  }
+  .section-title {
+    width: 80%;
+  }
 
+  .trainer {
+    flex: 0 70%;
+  }
+
+  .contact-info iframe {
+    flex: 1 100%;
   }
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
   header h1 {
-
   }
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
   header h1 {
-
   }
 }
