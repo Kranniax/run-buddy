@@ -139,6 +139,12 @@ image. We'll set this position to center. */
   width: 100%;
   margin-bottom: 15px;
   border-radius: 10px;
+  background-color:rgba(255,255,255, 0.75);
+}
+.form-input:focus{
+  background-color: rgba(255,255,255, 1);
+  /* To get rid of the default border when focused, use the CSS style "outline". */
+  outline: none;
 }
 .hero-form button {
   color: #fce138;
@@ -166,7 +172,6 @@ image. We'll set this position to center. */
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
-  border-bottom: 1px solid #39a6b2;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -203,6 +208,9 @@ to set the standard width size <flex-grow> <Flex-basis> */
   font-size: 26px;
   line-height: 1.5;
   color: #024e76;
+}
+.step:not(:last-child){
+    border-bottom: 1px solid #39a6b2;
 }
 .section-title {
   font-size: 48px;
@@ -305,7 +313,13 @@ context to the element. */
   margin-bottom: 15px;
   margin-top: 5px;
   border-radius: 10px;
+  background-color: rgba(255,255,255, 0.75);
 }
+.contact-form input:focus, .contact-form textarea:focus{
+  background-color: rgba(255,255,255, 1);
+  outline: none;
+}
+
 .contact-form button {
   width: 100%;
   border: none;
