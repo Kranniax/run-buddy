@@ -16,7 +16,7 @@ help you stick with your fitness goals and make exercise much more enjoyable.
 * You’ll actually show up.
 * It’s safer.
 
-![ Surpreme Images](/assets/images/kranniax-github-io-1920x1080desktop-36fefb.png)
+![ Surpreme Images](/assets/images/kranniax-github-io-1920x1080desktop-36fefb%20(1).png)
 
 ## Technologies Used
 
